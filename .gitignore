@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+.env.*
+
+# Transient
+_to_delete/
+tmp/

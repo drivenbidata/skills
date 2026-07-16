@@ -1,0 +1,19 @@
+{
+  "name": "drivenbidata-skills",
+  "version": "0.1.0",
+  "description": "drivenbidata's agent skills — small, composable, model-agnostic skills for real work.",
+  "author": {
+    "name": "drivenbidata"
+  },
+  "repository": "https://github.com/drivenbidata/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "claude",
+    "cowork",
+    "agent-skills"
+  ],
+  "skills": [
+    "./skills/misc/example-skill"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "drivenbidata",
+  "owner": {
+    "name": "drivenbidata"
+  },
+  "description": "drivenbidata's skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "drivenbidata-skills",
+      "source": "./",
+      "description": "drivenbidata's agent skills — small, composable, model-agnostic skills for real work.",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "claude",
+        "cowork",
+        "agent-skills"
+      ]
+    }
+  ]
+}
