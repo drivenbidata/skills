@@ -1,6 +1,6 @@
 {
   "name": "drivenbidata-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "drivenbidata's agent skills — small, composable, model-agnostic skills for real work.",
   "author": {
     "name": "drivenbidata"
@@ -14,6 +14,7 @@
     "agent-skills"
   ],
   "skills": [
+    "./skills/productivity/teams-meeting-notes",
     "./skills/misc/example-skill"
   ]
 }
